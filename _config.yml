@@ -1,0 +1,10 @@
+# Site settings
+title: Irish Techies
+email: info@irishtechies.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'll find something to put here...
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://irishtechies.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
