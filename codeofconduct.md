@@ -10,18 +10,6 @@ Harassment includes verbal comments that reinforce social structures of dominati
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or having membership revoked. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an administrator (private messages can be sent via Slack and are encouraged).
 
-Current admins:
-
-* Colm @colmdoyle
-* Donovan @donovanh
-* Eamon: @eamonleonard
-* Eoghan: @nahgoe
-* Michael: @mbradley
-* Mike: @mikem
-* Oisín: @oisin
-* Steph: @steph
-* Ben: @benricm
-* Shane: @shanemoloney
-* Paul: @paulmwatson
+You can get a list of admins by messaging Hubot and saying 'admins'
 
 Admins will be happy to assist those experiencing harassment to feel safe in this community.
