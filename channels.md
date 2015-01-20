@@ -13,8 +13,8 @@ What do we talk about on this Slack instance? Here is a list of the channels on 
 * beer
   * All about beer, like [this list of Irish Beers][irish-beers]
 * cluster_ie
-  * www.cluster.ie
-*design
+  * Coworking with [Cluster][cluster].
+* design
   * Web design, print design, app design, experience design, content design, design strategy, product design, design
 * development
   * Conversations about development techniques and processes, Q and A, help and general techie-ness not limited to techies!
@@ -63,3 +63,4 @@ What do we talk about on this Slack instance? Here is a list of the channels on 
 
 [irish-beers]: http://www.belgiansmaak.com/irish-beers-to-try-in-2015/
 [verbose]: https://itunes.apple.com/ie/podcast/the-verbose-podcast/id652218985
+[cluster]: http://www.cluster.ie
