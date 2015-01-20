@@ -14,7 +14,7 @@ What do we talk about on this Slack instance? Here is a list of the channels on 
   * All about beer, like [this list of Irish Beers][irish-beers]
 * cluster_ie
   * www.cluster.ie
-*design
+* design
   * Web design, print design, app design, experience design, content design, design strategy, product design, design
 * development
   * Conversations about development techniques and processes, Q and A, help and general techie-ness not limited to techies!
