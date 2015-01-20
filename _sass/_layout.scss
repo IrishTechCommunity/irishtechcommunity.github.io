@@ -234,3 +234,16 @@
         }
     }
 }
+
+.button a {
+  padding: 0.5em 1em;
+  background-color: #6f00ec;
+  color: #fff;
+  border-radius: 5px;
+  transition: all 0.2s ease-out;
+
+  &:hover {
+    background: lighten(#6f00ec, 10%);
+    text-decoration: none;
+  }
+}
