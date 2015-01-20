@@ -1,8 +1,7 @@
 # Site settings
 title: Irish Tech Community
 email: info@irishtechcommunity.com
-description: > # this means to ignore newlines until "baseurl:"
-  I'll find something to put here...
+description: A slack channel for people interested in, or working in the Irish tech industry
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://irishtechcommunity.com" # the base hostname & protocol for your site
 
