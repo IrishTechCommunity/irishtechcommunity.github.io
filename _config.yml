@@ -1,7 +1,7 @@
 # Site settings
 title: Irish Tech Community
 email: info@irishtechcommunity.com
-description: A Slack channel for people in or related to, or interested in Ireland and tech
+description: A slack channel for people interested in, or working in the Irish tech industry
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://irishtechcommunity.com" # the base hostname & protocol for your site
 
