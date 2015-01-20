@@ -8,7 +8,7 @@ What do we talk about on this Slack instance? Here is a list of the channels on 
 
 * accessibility
   * Any and all questions regarding accessibility in UI development and design
-*admin
+* admin
   * Administrivia
 * beer
   * All about beer, like [this list of Irish Beers][irish-beers]
