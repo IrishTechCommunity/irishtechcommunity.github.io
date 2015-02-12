@@ -1,3 +1,9 @@
+---
+layout: page
+title: Community Rules
+permalink: /rules/
+---
+
 ##ITC should be considered SFW (Safe for Work). As a rule of thumb, before you post anything, consider if you'd want a co-worker or your boss to see it.
 
 ###The following is not allowed:
