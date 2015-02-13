@@ -32,7 +32,7 @@ If someone reports/flags a piece of content in a channel (by typing "hubot admin
 To disable a user's account:
 
 Visit the Team Members page at https://irishtechcommunity.slack.com/admin
-Click the â–¸ arrow next to the personâ€™s current team role.
+Click the arrow next to the persons current team role.
 Click Disable Account.
 
 For more info see: https://slack.zendesk.com/hc/en-us/articles/204475027-Managing-team-member-accounts
