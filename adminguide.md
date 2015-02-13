@@ -26,19 +26,19 @@ If you are deleting a user's post, it may be wise to take a screen shot first, b
 
 # Reported/Flagged content
 
-If someone reports/flags a piece of content in a channel (by typing "hubot admins" or "hubot notify admins". You and any other Admins will receive an emai. You should review the content and decide whether or not any action is required. If you're unsure consult another admin or ask in the admin channel.
+If someone reports/flags a piece of content in a channel (by typing "hubot admins" or "hubot notify admins", posting in the admin channel, or contacting you directly). You and any other Admins should receive an emai. You should review the content and decide whether or not any action is required. If you're unsure, consult another admin or ask in the admin channel for assistance.
 
 # Banning Someone
 
 To disable a user's account:
 
 Visit the Team Members page at https://irishtechcommunity.slack.com/admin
-Click the â–¸ arrow next to the personâ€™s current team role.
+Click the arrow next to the persona -> current team role.
 Click Disable Account.
 
 For more info see: https://slack.zendesk.com/hc/en-us/articles/204475027-Managing-team-member-accounts
 
-A record of banned users should be kept.
+A record of banned users should be kept, as should a record of warnings issued.
 
 A DM, or possibly email, should be sent to be user informing them of their disabled account and, if necessary, the reason for doing so.
 
