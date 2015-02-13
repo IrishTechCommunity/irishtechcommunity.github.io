@@ -6,8 +6,11 @@ permalink: /adminguide/
 
 # Please ensure you read and understand all of the information below.
 
-## There is an admin channel should you need to ask any questions.
+# There is an admin channel should you need to ask any questions.
 
+# What is expected of you as an admin
+- To respond within a reasonable time, once notifiied, to arbitrate on a breach of the Code of Conduct (this could include issuing warnings to users, banning users by disabling their accounts, removing inappropriate content etc).
+- To help maintain and foster a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
 
 # Moderating
 
