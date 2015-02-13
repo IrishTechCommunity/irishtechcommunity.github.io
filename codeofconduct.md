@@ -14,7 +14,8 @@ You can get a list of admins by messaging Hubot and saying 'admins'
 
 Admins will be happy to assist those experiencing harassment to feel safe in this community.
 
-Getting Help
+#### Getting Help
+
 If something goes wrong, get help by:
 
 - Asking for help in channel by typing "hubot admins"
