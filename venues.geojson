@@ -17,7 +17,8 @@
         "address": "Block B, Joyce’s Court, Joyce’s Walk, Talbot Street, Dublin 1",
         "facilites": "Projector, kitchen, AV",
         "accessible": "Yes",
-        "maximum guests": 35
+        "maximum guests": 35,
+        "contact": "colm@kitmanlabs.com"
       }
     }
   ]
