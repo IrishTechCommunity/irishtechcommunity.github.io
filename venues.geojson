@@ -1,0 +1,24 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2513887,
+          53.3516277
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "Kitman Labs",
+        "address": "Block B, Joyce’s Court, Joyce’s Walk, Talbot Street, Dublin 1",
+        "facilites": "Projector, kitchen, AV",
+        "accessible": "Yes",
+        "maximum guests": 35
+      }
+    }
+  ]
+}
