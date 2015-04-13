@@ -20,6 +20,25 @@
         "maximum guests": 35,
         "contact": "colm@kitmanlabs.com"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.245649,
+          53.348224 
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "Citi",
+        "address": "1 North Wall Quay, Dublin 1",
+        "facilites": "Projector, AV",
+        "accessible": "Yes",
+        "maximum guests": 120,
+        "contact": "aman.kohli@citi.com"
+      }
+    }  
   ]
 }
