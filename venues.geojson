@@ -39,6 +39,25 @@
         "maximum guests": 120,
         "contact": "aman.kohli@citi.com"
       }
-    }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2594114,
+          53.3303565
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "Zendesk",
+        "address": "1 Grand Parade, Ranelagh, Dublin 6",
+        "facilites": "Wall Display (TV), AV, Kitchen, Refreshments",
+        "accessible": "Yes",
+        "maximum guests": 70,
+        "contact": "abalcanasu@zendesk.com"
+      }
+    } 
   ]
 }
