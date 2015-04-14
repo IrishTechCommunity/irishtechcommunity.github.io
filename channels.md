@@ -42,6 +42,8 @@ What do we talk about on this Slack instance? Here is a list of the channels on 
   * All things OTP, Erlang, Elixir and all those tools.
 * podcast
   * All about the [Verbose][verbose] podcast
+* python
+  * import this
 * random
   * A place for non-work banter, links, articles of interest, humor or anything else which you'd like concentrated in some place other than work-related channels.
 * reading
