@@ -14,6 +14,8 @@ You can get a list of admins by messaging Hubot and saying 'admins'
 
 Admins will be happy to assist those experiencing harassment to feel safe in this community.
 
+A person should have one account, and each account should be one person. If you are posting on behalf of a company, say your own startup, or a place at which you work, that's fine. But you are posting it from *your* account, not from a *company* account.
+
 #### Getting Help
 
 If something goes wrong, get help by:
@@ -26,7 +28,6 @@ If something goes wrong, get help by:
 
 #### The following is not allowed:
 
-- A person should have one account, and each account should be one person. If you are posting on behalf of a company, say your own startup, or a place at which you work, that's fine. But you are posting it from *your* account, not from a *company* account.
 - Any content which is not in keeping with the Code of Conduct.
 - Blatantly sexual content (pornography, nudity, etc.)
 - Misogyny, ableism, sexism racism, nationalist insults etc.
