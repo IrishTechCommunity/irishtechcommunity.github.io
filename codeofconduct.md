@@ -26,7 +26,7 @@ If something goes wrong, get help by:
 
 #### The following is not allowed:
 
-- "Company" accounts (e.g. @megacorp _not allowed_ @colm_from_megacorp _allowed_) __This does not mean you have to use your real name, just not a company name__
+- A person should have one account, and each account should be one person. If you are posting on behalf of a company, say your own startup, or a place at which you work, that's fine. But you are posting it from *your* account, not from a *company* account.
 - Any content which is not in keeping with the Code of Conduct.
 - Blatantly sexual content (pornography, nudity, etc.)
 - Misogyny, ableism, sexism racism, nationalist insults etc.
