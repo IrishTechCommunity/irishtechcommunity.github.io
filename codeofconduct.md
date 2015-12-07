@@ -26,6 +26,7 @@ If something goes wrong, get help by:
 
 #### The following is not allowed:
 
+- "Company" accounts (e.g. @megacorp *not allowed* @colm_from_megacorp *allowed*)
 - Any content which is not in keeping with the Code of Conduct.
 - Blatantly sexual content (pornography, nudity, etc.)
 - Misogyny, ableism, sexism racism, nationalist insults etc.
