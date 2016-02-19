@@ -4,7 +4,7 @@ title: Channel List
 permalink: /channels/
 ---
 
-What do we talk about on this Slack instance? Here is a list of the channels on the 19th of . Some are more active than others.
+What do we talk about on this Slack instance? Here is a list of the channels on the 19th of February. Some are more active than others.
 
 * general 
    * Banter!
