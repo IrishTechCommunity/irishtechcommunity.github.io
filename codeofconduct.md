@@ -14,6 +14,8 @@ You can get a list of admins by messaging Hubot and saying 'admins' - 'hubot adm
 
 Admins will be happy to assist those experiencing harassment to feel safe in this community.
 
+A person should have one account, and each account should be one person. If you are posting on behalf of a company, say your own startup, or a place at which you work, that's fine. But you are posting it from *your* account, not from a *company* account.
+
 #### Getting Help
 
 If something goes wrong, get help by:
