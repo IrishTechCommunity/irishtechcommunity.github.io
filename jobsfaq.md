@@ -23,7 +23,7 @@ Example from @ccross
 
 As usual, if there are any questions or concerns around this please don't hestiate to contact an admin which can be accessed by /admins . 
 
-##FAQ
+## FAQ
 
 **Can I post a Job?** - Yes, any job that you feel is relevant to this community. 
 
