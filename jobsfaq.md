@@ -1,3 +1,9 @@
+---
+layout: page
+title: Jobs FAQ/Rules
+permalink: /jobs-faq/
+---
+
 # Irish Tech Community - Jobs FAQ/Rules
 
 As our community grows, it's important that all members are aware of best practice rules when it comes to using the #jobs channel. 
