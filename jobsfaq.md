@@ -37,4 +37,4 @@ As usual, if there are any questions or concerns around this please don't hestia
 
 **Can I post here if I'm looking for work?** - Yes, however please note that if you do it will not be pinned. Your best bet if you're looking for work is to look in the pinned section of Jobs. 
 
-**Can I look for help about recuitment/interviews/contracts/salary?** - Yes, that's what the community is here for.
+**Can I look for help about recruitment/interviews/contracts/salary?** - Yes, that's what the community is here for.
