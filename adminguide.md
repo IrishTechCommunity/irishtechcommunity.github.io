@@ -8,6 +8,14 @@ permalink: /adminguide/
 
 # There is an admin channel should you need to ask any questions.
 
+# How to become an Admin 
+
+- Requests will be brought to all available admins 
+- An Anonymous Vote will be made by the admins using something like (https://www.adoodle.org/index.php)
+- Admins are given a week to make a decision.
+- Unanimous votes for Admins will only be considered. 
+- Admins decisions are final, however users can feel free to reapply at a later stage
+
 # What is expected of you as an admin
 - To respond within a reasonable time, once notifiied, to arbitrate on a breach of the Code of Conduct (this could include issuing warnings to users, banning users by disabling their accounts, removing inappropriate content etc).
 - To help maintain and foster a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
@@ -41,6 +49,13 @@ A record of banned users should be kept.
 
 A DM, or possibly email, should be sent to be user informing them of their disabled account and, if necessary, the reason for doing so.
 
+# What to do if you feel an Admin has acted innappripriately 
+
+- Raise it with another Admin as soon as possible please detail where possible, time date and context to allow another admin to look into this for you.
+- Failing a satisfactory response from the Admin that was being, bring it to the #admin channel
+- An open discussion with other members of the community and a compromise will be found.
+
 # Issues
 
 - Currently there's no way to infract someone, or flag a user, log a warning etc via slack - so if someone does break the rules, it won't be possible to log that anywhere, unless some system for doing so is created. Therefore at the moment it's at the discretion of the admins memory to recall infractions of the rules/CoC by a specific person.
+- Specious proposes a record to be kept on Github or somewhere for offences made however, is concerned about the legal and data privacy issues this may raise.
