@@ -1,3 +1,11 @@
+---
+layout: page
+title: New User Guide	
+permalink: /newuserguide/
+---
+
+
+
 # Welcome to the Irish Tech Community
 
 Firstly, welcome to the community! 
