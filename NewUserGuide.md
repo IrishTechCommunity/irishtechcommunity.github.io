@@ -1,3 +1,11 @@
+---
+2	layout: page
+3	title: New User Guide
+4	permalink: /newuserguide/
+5	---
+
+
+
 # Welcome to the Irish Tech Community
 
 Firstly, welcome to the community! 
