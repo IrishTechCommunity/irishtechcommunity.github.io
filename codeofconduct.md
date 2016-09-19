@@ -3,29 +3,13 @@ layout: page
 title: Code of conduct
 permalink: /codeofconduct/
 ---
+## Welcome to the Irish Tech Community 
 
-The Irish Tech Community is dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or have membership revoked at the discretion of the organizers.
+# A few things to note: 
 
-Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+- The Irish Tech Community is dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or have membership revoked at the discretion of the organizers.
 
-If a participant engages in harassing behavior, the admins may take any action they deem appropriate, including warning the offender or having their account disabled. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an administrator (private messages can be sent via Slack and are encouraged).
-
-You can get a list of admins by messaging Hubot and saying 'admins' - 'hubot admins'
-
-Admins will be happy to assist those experiencing harassment to feel safe in this community.
-
-A person should have one account, and each account should be one person. If you are posting on behalf of a company, say your own startup, or a place at which you work, that's fine. But you are posting it from *your* account, not from a *company* account.
-
-#### Getting Help
-
-If something goes wrong, get help by:
-
-- Asking for help in channel by typing "@admins"
-- If you wish to message an admin individually, you can see a list of current admins by typing 'hubot admins' in any channel 
-- Sending a direct message to someone listed as an admin. 
-- Asking for help in the #admin channel (With admins present).
-
-#### ITC should be considered SFW (Safe for Work). As a rule of thumb, before you post anything, consider if you'd want a co-worker or your boss to see it.
+### ITC should be considered SFW (Safe for Work). As a rule of thumb, before you post anything, consider if you'd want a co-worker or your boss to see it. While the admins are aware that ITC is used by both professionals and vistors alike the tone shall be kept as SFW and to be used in a Social capacity until the community decides otherwise.
 
 #### The following is not allowed:
 
@@ -45,16 +29,41 @@ If something goes wrong, get help by:
 - Soliciting passwords or personally identifying information for commercial or unlawful purposes
 - Posting content in respect of any matter that is currently before the courts
 
+# What is Harassment?
+- Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-### You may not join if:
+If a participant engages in harassing behavior, the admins may take any action they deem appropriate, including warning the offender or having their account disabled. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an administrator (private messages can be sent via Slack and are encouraged).
+
+# Where can I find an Admin?
+
+- You can get a list of admins by messaging Hubot and saying '/admins' - 'hubot admins'
+- Admins will be happy to assist those experiencing harassment to feel safe in this community.
+- You can find other details for admins at the http://irishtechcommunity.com/adminguide/
+
+# Concerning Accounts & Slack Features
+
+- A person should have one account, and each account should be one person. If you are posting on behalf of a company, say your own startup, or a place at which you work, that's fine. But you are posting it from *your* account, not from a *company* account.
+
+## You may not join if:
 
 - You are currently banned for any reason.
 - You are joining solely to spam.
 
-### What you agree to by joining:
+## What you agree to by joining:
 
 - Act responsibly.
 - Treat others with respect.
 - Abide by the rules.
+- @here @channel @everyone are turned off so people don't get unwanted notificaitons, or abuse of the feature. 
+
+#### Getting Help
+
+If something goes wrong, get help by:
+
+- Asking for help in channel by typing "@admins"
+- If you wish to message an admin individually, you can see a list of current admins by typing 'hubot admins' in any channel 
+- Sending a direct message to someone listed as an admin. 
+- Asking for help in the #admin channel (With admins present).
+
 
 If you would like to provide feedback on any of the above, or suggest an addition, please contact an admin or post in the admin channel.
