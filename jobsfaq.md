@@ -14,7 +14,7 @@ As our community grows, it's important that all members are aware of best practi
 * Only job posts are allowed to be pinned - no exceptions. 
 * Pinned jobs should follow the following format : Greeting, Job-title, Location, Level, Technologies, Contact Information / Link. This should be kept to a single message. 
 
-Example from @ccross
+Example from @ccrosse
 
 > Morning all, have a Senior engineering role with another start-up in Dublin. They are looking for a senior engineer who is open/curious to work in a number of technologies. They were using Python, Ruby and now have a strong preference to Node.JS. - Let me know if this piques any interest. Cheers
 
