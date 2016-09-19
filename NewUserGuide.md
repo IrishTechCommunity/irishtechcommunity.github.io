@@ -1,8 +1,8 @@
 ---
-2	layout: page
-3	title: New User Guide
-4	permalink: /newuserguide/
-5	---
+layout: page
+title: New User Guide	
+permalink: /newuserguide/
+---
 
 
 
