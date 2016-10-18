@@ -21,9 +21,9 @@ As a community, we don't bite so don't be afraid to express your opinion. Just k
 
 There are a few basic rules about ITC to keep in mind : 
 
-- You can't leave #general -  not our choice! But something to keep in mind
-- Remember to toggle your notifications - particularly if you use more then one slack, you can find more information how to do this on https://get.slack.help/hc/en-us/categories/200111606-Using-Slack
-- We have disabled @here, @anyone & @channel. People have found it to be more annoying than helpful. 
-- We have guides for pretty much everything to do with our Code of Conduct, Jobs Channel and What is an Admin so be sure to check them out here. (http://irishtechcommunity.com)
+- You can't leave `#general` -  not our choice! But something to keep in mind
+- Remember to toggle your notifications - particularly if you use more then one slack, you can find more information on how to do this on https://get.slack.help/hc/en-us/categories/200111606-Using-Slack
+- We have disabled `@here`, `@anyone` & `@channel`. People have found it to be more annoying than helpful. 
+- We have guides for pretty much everything to do with our [Code of Conduct](/codeofconduct), [Jobs Channel](/jobs-faq) and [What is an Admin](/adminguide) so be sure to check them out.
 - Be nice to the admins, we're all volunteers here. If we come to you when you notice a problem, please understand we're only trying to guide and help.
 - Equally, always ask questions to an admin if you're unsure about anything. 
