@@ -1,3 +1,9 @@
+---
+layout: page
+title: WelcomeBot
+permalink: /welcomebot/
+---
+
 ##About WelcomeBot
 
 The point of the WelcomeBot is so that whenever someone new joins the Community that they get welcomed. That's why I created the WelcomeBot. 
