@@ -39,9 +39,9 @@ If someone reports/flags a piece of content in a channel (by typing "hubot admin
 
 To disable a user's account:
 
-Visit the Team Members page at https://irishtechcommunity.slack.com/admin
-Click the arrow next to the persons current team role.
-Click Disable Account.
+1. Visit the Team Members page at https://irishtechcommunity.slack.com/admin
+1. Click the arrow next to the persons current team role.
+1. Click Disable Account.
 
 For more info see: https://slack.zendesk.com/hc/en-us/articles/204475027-Managing-team-member-accounts
 
@@ -49,10 +49,10 @@ A record of banned users should be kept.
 
 A DM, or possibly email, should be sent to be user informing them of their disabled account and, if necessary, the reason for doing so.
 
-# What to do if you feel an Admin has acted innappripriately 
+# What to do if you feel an Admin has acted inappropriately 
 
-- Raise it with another Admin as soon as possible please detail where possible, time date and context to allow another admin to look into this for you.
-- Failing a satisfactory response from the Admin that was being, bring it to the #admin channel
+- Raise it with another Admin as soon as possible. Please detail where possible, time, date, and context to allow another admin to look into this for you.
+- Failing a satisfactory response from the Admin that was being inappropriate, bring it to the #admin channel
 - An open discussion with other members of the community and a compromise will be found.
 
 # Issues
