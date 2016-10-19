@@ -13,12 +13,12 @@ As our community grows, it's important that all members are aware of best practi
 * All members are allowed to post any job that may be of interest to the wider community ie. doesn't have to be programming jobs.
 * Only job posts are allowed to be pinned - no exceptions. 
 * Pinned jobs should follow the following format : Greeting, Job-title, Location, Level, Technologies, Contact Information / Link. This should be kept to a single message. 
-* No discrimination in your posts, e.g. "NO RECRUITERS". You are making an active decision to post a job on the board. ITC is not responsible for who sees the post, and if you don't already have it in the job post you're listing then that's your responsibility. You either trust the community with the information, or you don't. Admins will delete posts like this as being Anti-Social at their dicresion. 
 
-Example of a Job Post from @ccrosse
+Example of a Job Post from @ccrosse 
 
 > Morning all, have a Senior engineering role with another start-up in Dublin. They are looking for a senior engineer who is open/curious to work in a number of technologies. They were using Python, Ruby and now have a strong preference to Node.JS. - Let me know if this piques any interest. Cheers
 
+* No discrimination in your posts, e.g. "NO RECRUITERS". You are making an active decision to post a job on the board. ITC is not responsible for who sees the post, and if you don't already have it in the job post you're listing then that's your responsibility. You either trust the community with the information, or you don't. Admins will delete posts like this as being Anti-Social at their dicresion. 
 * Clean up after yourselves! If you pin something, and you know the job is gone, please remove it. Otherwise a Bot or a bored admin will!
 * If a post is removed after a certain period (3 Months +) the admins are under no obligation to notify the original poster of the removal; they will be en masse. 
 
