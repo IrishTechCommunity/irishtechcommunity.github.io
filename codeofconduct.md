@@ -9,6 +9,8 @@ permalink: /codeofconduct/
 
 - The Irish Tech Community is dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or have membership revoked at the discretion of the organizers.
 
+- ITC is not a substitute for legal advice from a professional lawyer/barrister.
+
 ### ITC should be considered SFW (Safe for Work). As a rule of thumb, before you post anything, consider if you'd want a co-worker or your boss to see it. While the admins are aware that ITC is used by both professionals and vistors alike the tone shall be kept as SFW and to be used in a Social capacity until the community decides otherwise.
 
 #### The following is not allowed:
