@@ -12,6 +12,7 @@ As our community grows, it's important that all members are aware of best practi
   * Don't forget we have other channels like #python & #rant for where discussion is more appropriate.
 * All members are allowed to post any job that may be of interest to the wider community ie. doesn't have to be programming jobs.
 * Only job posts are allowed to be pinned - no exceptions. 
+* While questions about all aspects of jobs/worklife is encouraged - ITC is not a substitute for legal advice from a professional lawyer/barrister.
 * Pinned jobs should follow the following format : Greeting, Job-title, Location, Level, Technologies, Contact Information / Link. This should be kept to a single message. 
 
 Example of a Job Post from @ccrosse 
