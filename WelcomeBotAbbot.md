@@ -45,14 +45,14 @@ Abbot greets you in the #welcome channel
 
 ## FAQs
  
-** I've got some feedback on the Welcomebot/Abbot, where do I go? **
+**I've got some feedback on the Welcomebot/Abbot, where do I go?**
 
 The #admin channel is always the best first call if you have any feedback or contributation to make. Second would be making a comment on the actual git page with your comment and recommendations. 
 
-** Can I leave the #welcome channel? Or do I have to stay there? **
+**Can I leave the #welcome channel? Or do I have to stay there?**
 
 You can leave the #welcome channel at any stage you wish. 
 
-** I don't like to be contacted by Abbot/WelcomeBot, can I disable it? **
+**I don't like to be contacted by Abbot/WelcomeBot, can I disable it?**
 
 Abbot and Welcome bot will only ping you once when you create an account for Slack and log in. It has useful information for newcommers in it, which you would be of interest to you. After this, it will not ping you or contact you again. 
