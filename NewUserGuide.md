@@ -10,7 +10,13 @@ permalink: /newuserguide/
 
 Firstly, welcome to the community! 
 
-While you might feel a little anxious getting to know everyone around here, there is a single piece of advice we can give you as part of the Admin team. 
+While you might feel a little anxious getting to know everyone around here, most of the time we don't bite. However, in order to make your life a little easier in terms of finding your feet. Here are some things to keep in mind while you're here.
+
+## WelcomeBot & Abbot
+
+WelcomeBot & Abbot were created to help you guys settle in. The #welcome channel is designed for everyone to introduce themselves to the community if they wish to do so, you will be welcomed by Abbot into the channel. WelcomeBot will also be DMing new users with information which is also listed in the House Keeping section below. 
+
+Full details can be found [here](http://irishtechcommunity.com/welcomebotabbot)
 
 ## Keep talking
 
@@ -19,7 +25,7 @@ As a community, we don't bite so don't be afraid to express your opinion. Just k
 
 ## House Keeping
 
-There are a few basic rules about ITC to keep in mind : 
+There are a few basic rules about ITC : 
 
 - You can't leave `#general` -  not our choice! But something to keep in mind
 - Remember to toggle your notifications - particularly if you use more then one slack, you can find more information on how to do this on https://get.slack.help/hc/en-us/categories/200111606-Using-Slack
