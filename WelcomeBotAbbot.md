@@ -27,7 +27,7 @@ The point of the WelcomeBot is so that whenever someone new joins the Community 
 > Have fun!
 
 - Built Python on Heroku to replace the welcomebot text but to DM instead of #general channel
-- The code for it is also in the ITC GitHub org: http://github.com/IrishTechCommunity/greetingslack
+- The code for it is also in the [ITC Github]
 
 ## About Abbot
 
@@ -56,3 +56,6 @@ You can leave the #welcome channel at any stage you wish.
 **I don't like to be contacted by Abbot/WelcomeBot, can I disable it?**
 
 Abbot and Welcome bot will only ping you once when you create an account for Slack and log in. It has useful information for newcommers in it, which you would be of interest to you. After this, it will not ping you or contact you again. 
+
+
+[ITC Github]: http://github.com/IrishTechCommunity/greetingslack
