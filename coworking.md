@@ -24,7 +24,7 @@ Partas |	http://www.partas.ie/Home.aspx |	Tallaght	Dublin 24	 |
 Rock Desk |	http://rockdesk.co/	26 Eustace Street, Temple Bar	Dublin 2	|																					
 Studio9 |	http://studio9.ie/ |	9 North Great George's Street	Dublin 1 |																						
 Synergy Centre |	http://synergycentre.ie/ |	ITT Dublin, Tallaght	Dublin 24 |	@Synergyitt	|																		
-TCube |	http://tcubedublin.com/	8 Westmoreland Street	Dublin 2 |	@TCubeDublin	|																																						  
+TCube |	http://tcubedublin.com/	| 8 Westmoreland Street	Dublin 2 |	@TCubeDublin	|																																						  
 The Digital Hub |	http://www.thedigitalhub.com/joinus | Crane Street	Dublin 8 |	@thedigitalhub	|																			
 The Hive @ Liffey Trust Hub |	http://www.liffeytrust.ie/The-Hive |	17-126 Upper Sheriff Street	Dublin 16 |	@liffeytrust |																					
 The Link Business Centre |	http://www.linkbc.ie/ |	Calmount Ave, Ballymount, Dublin 12 |	@LINK_BusinessC	|																				
