@@ -19,6 +19,7 @@ Admins will be happy to assist those experiencing harassment to feel safe in thi
 If something goes wrong, get help by:
 
 - Asking for help in channel by typing "@admins"
+- In the event of interchannel disputes please contact the active mod on duty for your channel which you'll find pinned to the channel or use the @admins command. 
 - If you wish to message an admin individually, you can see a list of current admins by typing 'hubot admins' in any channel 
 - Sending a direct message to someone listed as an admin. 
 - Asking for help in the #admin channel (With admins present).
