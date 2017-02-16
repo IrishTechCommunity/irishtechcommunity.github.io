@@ -4,20 +4,43 @@ title: Admin Guide
 permalink: /adminguide/
 ---
 
-# Please ensure you read and understand all of the information below.
+# 2017 Updated Admins & Moderation Rules
 
-# There is an admin channel should you need to ask any questions.
+Please Read these new rules and moderation requirements carefully. 
 
-# What is expected of you as an admin
-- To respond within a reasonable time, once notifiied, to arbitrate on a breach of the Code of Conduct (this could include issuing warnings to users, banning users by disabling their accounts, removing inappropriate content etc).
+ - The Admin Team is now @specious, @colmdoyle, @oisin & @mikem
+ - The reruting of admins is now being reformatted to being per channel. 
+ 
+ @specious will be moderating : #general, #random, #food, #jobs, #music, #reading, #photography
+ @oisin will be moderating: #node, #python, #development, #ios, any other programing related channels
+ @colmdoyle & @mikem will be moderating anything inbetween bar #rant & #politics
+ 
+ It is the decision of the Admin team that Rant and Politics will not be moderated in, unless there is an unprecidented breach of COC. This is in the spirit of freedom of speech, and under the condition and trust, that the community will self moderate and report appropriately if terms are broken.
+ 
+ # Moderating 
+ 
+ We are now starting to moderators per channel. We are looking for active people who participate to contrubute to ITC's general maintance. 
+ 
+ Duties would entail reporting any incidents that breach COC to be reported to the Admin Team. 
+ 
+ Volunteers are as follows: 
+ 
+ - #jobs @ccrosse
+ 
+ The Admin team will be coming up with a way for identifying new Moderators in the future and we will keep communications open. This section will be updated when we have a solution. 
+ 
+
+# What is expected of you as a moderator
+- To respond within a reasonable time (within 6 hours, or earlier if pinged), once notifiied, to arbitrate on a breach of the Code of Conduct (this could include issuing warnings to users, banning users by disabling their accounts, removing inappropriate content etc).
 - To help maintain and foster a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
+- Participate actively within the community (be a continious presence within the community, and remain in contact with the admin team)
 
-# Moderating
+# Moderating 101
 
 Never post or take an action when you are annoyed or angry.
 Log off if necessary, then decide what to say or do. Always try to be impartial.
 
-If you need to dish out some of your new admin powers, it may be worth issuing a warning first with an in-channel post or by DM, preferably both, before anyone is banned. When removing content, place the text <admin snip> where you remove the offending material so it's obvious to forum users that you've removed it, helping ensure transparent moderation.
+If you need to dish out some of your new admin powers, issue a warning first with an in-channel post or by DM, preferably both as well as posting the offence in the private admin channel before anyone is banned. When removing content, place the text <admin snip> where you remove the offending material so it's obvious to forum users that you've removed it, helping ensure transparent moderation.
 
 If the same person breaks the rules once more, take appropriate action (stern warning or permanent ban), seek advice in the Admin channel if you're unsure. 
 
