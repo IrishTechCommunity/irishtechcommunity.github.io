@@ -7,7 +7,7 @@ permalink: /codeofconduct/
 
 # A few things to note: 
 
-- The Irish Tech Community is dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or have membership revoked at the discretion of the organizers.
+- The Irish Tech Community is dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, work, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or have membership revoked at the discretion of the organizers.
 
 - ITC is not a substitute for legal advice from a professional lawyer/barrister.
 
@@ -27,7 +27,7 @@ permalink: /codeofconduct/
 - Misdirection or deceiving links (such as to sites which hijack the browser, rickroll, etc.).
 - Anything illegal.
 - Defame, abuse, harass, stalk, threaten or otherwise violate the rights of others.
-- Identify or speculate as to the identity of any pseudonymous user
+- Identify or speculate as to the identity of any pseudonymous user. *The exception to this being Admins ruling out users who have already been banned using a different username*
 - Soliciting passwords or personally identifying information for commercial or unlawful purposes
 - Posting content in respect of any matter that is currently before the courts
 
@@ -38,7 +38,7 @@ If a participant engages in harassing behavior, the admins may take any action t
 
 # Where can I find an Admin?
 
-- You can get a list of admins by messaging Hubot and saying '/admins' - 'hubot admins'
+- You can ping the admins by @admins. Otherwise the active admins are: @specious, @oisin, @colmdoyle & @mikem (as of 2017)
 - Admins will be happy to assist those experiencing harassment to feel safe in this community.
 - You can find other details for admins at the http://irishtechcommunity.com/adminguide/
 
