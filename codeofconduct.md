@@ -46,19 +46,19 @@ If a participant engages in harassing behavior, the admins may take any action t
 
 - A person should have one account, and each account should be one person. If you are posting on behalf of a company, say your own startup, or a place at which you work, that's fine. But you are posting it from *your* account, not from a *company* account.
 
-## You may not join if:
+# You may not join if:
 
 - You are currently banned for any reason.
 - You are joining solely to spam.
 
-## What you agree to by joining:
+# What you agree to by joining:
 
 - Act responsibly.
 - Treat others with respect.
 - Abide by the rules.
 - @here @channel @everyone are turned off so people don't get unwanted notificaitons, or abuse of the feature. 
 
-#### Getting Help
+# Getting Help
 
 If something goes wrong, get help by:
 
@@ -67,5 +67,10 @@ If something goes wrong, get help by:
 - Sending a direct message to someone listed as an admin. 
 - Asking for help in the #admin channel (With admins present).
 
-
 If you would like to provide feedback on any of the above, or suggest an addition, please contact an admin or post in the admin channel.
+
+# About Politics
+
+A new integration will be in place for Politics that will make #politics read only for a duration that is seen fit by an admin. This is to ensure that when things get too heated in terms of breaches of our COC. The channel will be frozen, then an admin will assess what happened in channel. If warnings are required, they will be delivered in terms of DM. However, too many repeat offences will result in a ban from the channel and a possible overall ban will be considered. 
+
+The admin team feels that while having a space to discuss politics is important - this can only be done in alignment with the TOC of the overall slack. Breaches of these TOC are considered serious by the team, and will be dealt with. If repeated incidents of this happen where we are repeatedly warning people, we will consider the possibilty of shutting down the channel perminantly - with a view that there are many other places on the internet to discuss politics. 
