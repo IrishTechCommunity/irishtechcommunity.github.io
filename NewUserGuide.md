@@ -32,4 +32,5 @@ There are a few basic rules about ITC :
 - We have disabled `@here`, `@anyone` & `@channel`. People have found it to be more annoying than helpful. 
 - We have guides for pretty much everything to do with our [Code of Conduct](/codeofconduct), [Jobs Channel](/jobs-faq) and [What is an Admin](/adminguide) so be sure to check them out.
 - Be nice to the admins, we're all volunteers here. If we come to you when you notice a problem, please understand we're only trying to guide and help.
+- Promotion of any kind should be placed into #selfpromo, failure to do so will result in a warning from an admin.
 - Equally, always ask questions to an admin if you're unsure about anything. 
