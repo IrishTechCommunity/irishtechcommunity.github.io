@@ -30,6 +30,7 @@ permalink: /codeofconduct/
 - Identify or speculate as to the identity of any pseudonymous user. *The exception to this being Admins ruling out users who have already been banned using a different username*
 - Soliciting passwords or personally identifying information for commercial or unlawful purposes
 - Posting content in respect of any matter that is currently before the courts
+- Posting Spam of any description.
 
 # What is Harassment?
 - Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
