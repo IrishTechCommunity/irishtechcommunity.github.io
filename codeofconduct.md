@@ -31,6 +31,7 @@ permalink: /codeofconduct/
 - Soliciting passwords or personally identifying information for commercial or unlawful purposes
 - Posting content in respect of any matter that is currently before the courts
 - Posting Spam of any description.
+- Posting or soliciting any members to contribute to or take part in any survey.
 
 # What is Harassment?
 - Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
