@@ -48,7 +48,7 @@ If a participant engages in harassing behavior, the admins may take any action t
 
 # Concerning Accounts & Slack Features
 
-- A person should have one account, and each account should be one person. If you are posting on behalf of a company, say your own startup, or a place at which you work, that's fine. But you are posting it from *your* account, not from a *company* account.
+- A person should have one account, and each account should be one person. We do not allow company names, or accounts to join the channel. For example 1; you can be apart of X company but you are here to be apart of the community and as an indiviual. Example 2 :if you have a company called "foobar inc" and you join as "foobar" then that's a company name and that's against the toc.
 
 # You may not join if:
 
