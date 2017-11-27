@@ -40,9 +40,9 @@ If you are deleting a user's post, it may be wise to take a screen shot first, b
 
 As ITC grows, so does our demand for more moderators and people to assist the main admins in their daily tasks for maintance. So with that, we will be asking for volunteers for channel mods. The Jobs of the Moderators will be to ensure that the channels they participate in already are lively and engaging, and upholding the TOC. It is up to the moderators to remind channel users of the rules not to *enforce* them. That is something that should be esclated to the Admins. 
 
-Volunteers for the Moderation team should be directed to @specious as to which channel you would like to moderate on. 
+Volunteers for the Moderation team should be directed to #Admin as to which channel you would like to moderate on. 
 
-How you will identify yourself as a moderator is by putting it as follows in your Bio (example @specious |Admin|) as well as adding it to the channel purpose (Mods: @specious)
+How you will identify yourself as a moderator is by putting it as follows in your Bio (example @Oisin |Admin|) as well as adding it to the channel purpose (Mods: @Oisin)
 
 Any esclations should be reported to any of the admin team. 
 
