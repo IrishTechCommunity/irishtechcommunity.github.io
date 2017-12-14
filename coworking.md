@@ -20,7 +20,8 @@ Harbour View |	http://harbourview.ie/ |	7 – 9 Clarence Street, Dun Laoghaire	C
 IADT Media Cube |	http://www.mediacube.ie/ |	Kill Avenue, Dún Laoghaire	County Dublin |	@MediaCubeIADT	|																																
 The Linc |	https://thelincblog.wordpress.com	 | The Institute of Technology Blanchardstown, Blanchardstown Road North	Dublin 15 |	@thelinctweet	|																				
 National College of Ireland |	http://www.ncirl.ie/Business/BusinessIncubationCentre.aspx |	Mayor Street, IFSC	Dublin 1 |	@NCIRL	|																				
-Partas |	http://www.partas.ie/Home.aspx |	Tallaght	Dublin 24	 |																					
+Partas |	http://www.partas.ie/Home.aspx |	Tallaght	Dublin 24	 |
+Plus 10 |   http://plus10.org   | 2a Drinan Street    Cork |    @Plus10Org |
 Rock Desk |	http://rockdesk.co/	| 26 Eustace Street, Temple Bar	Dublin 2	|																					
 Studio9 |	http://studio9.ie/ |	9 North Great George's Street	Dublin 1 |																						
 Synergy Centre |	http://synergycentre.ie/ |	ITT Dublin, Tallaght	Dublin 24 |	@Synergyitt	|																		
