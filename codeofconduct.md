@@ -42,7 +42,7 @@ If a participant engages in harassing behavior, the admins may take any action t
 
 # Where can I find an Admin?
 
-- You can ping the admins by @admins. Otherwise the active admins are: @oisin, @colmdoyle & @mikem (as of 2017)
+- You can ping the admins by @admins. Otherwise the active admins are: @oisin & @mikem (as of Feb 2018)
 - Admins will be happy to assist those experiencing harassment to feel safe in this community.
 - You can find other details for admins at the http://irishtechcommunity.com/adminguide/
 
