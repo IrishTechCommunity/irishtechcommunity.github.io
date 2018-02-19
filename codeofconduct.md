@@ -121,7 +121,8 @@ Negative Attitudes - will be handled differently an example of this could be you
 The team understands that not all strikes are equal; or there could be ways of reasoning out poor behaviour (being provoked etc) however, in an environment where you are expected to reason like adults. It’s something we’re no longer excusing. 
 
 So, unfortunately, if this shoe fits then this is something to be aware of. 
-In Channel Harassment:
+
+# In Channel Harassment:
 
 On the terms of in channel harassment. Once again, approaching this in a fashion where we are all human beings who are worthy of respect and being treated civilly. That is what we will ultimately strive for. For the sake of consistency I’ll reiterate the general house rules.
 
