@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Admin Guide
-permalink: /adminguide/
+permalink: /Admin & Mod Guide/
 ---
 
 # How to become an Admin 
@@ -24,29 +24,22 @@ permalink: /adminguide/
 - Should there ever arise a time when an admin has been in breech of a TOC, the private admin channel will have an anomymous vote (no vitos) as to the severity of the sanction and the results of that will be brought to the public channel
 - Admins decisions are final.
 
+# Moderating 101 (applies to both Admin & Mods)
 
-# Moderating
-
-Never post or take an action when you are annoyed or angry.
-Log off if necessary, then decide what to say or do. Always try to be impartial.
-
-If you need to dish out some of your new admin powers, it may be worth issuing a warning first with an in-channel post or by DM, preferably both, before anyone is banned. When removing content, place the text <admin snip> where you remove the offending material so it's obvious to forum users that you've removed it, helping ensure transparent moderation.
-
-If the same person breaks the rules once more, take appropriate action (stern warning or permanent ban), seek advice in the Admin channel if you're unsure. 
-
-If you are deleting a user's post, it may be wise to take a screen shot first, before deletion. It's very useful to have a copy of the exact content that was in violation of the rules, in case you need to justify it later or need to compare posting styles between someone you've banned and a new user who's causing similar trouble.
+- Never post or take an action when you are annoyed or angry.
+- Log off if necessary, then decide what to say or do. Always try to be impartial.
+- If you need to dish out some of your new mod powers, issue a warning first with an in-channel post or by DM, preferably both, before anyone is banned. When removing content, place the text <admin snip> where you remove the offending material so it's obvious to forum users that you've removed it, helping ensure transparent moderation.
+- If the same person breaks the rules once more, take appropriate action (stern warning or permanent ban), seek advice in the Admin channel if you're unsure. 
+- If you are deleting a user's post, it may be wise to take a screen shot first, before deletion. It's very useful to have a copy of the exact content that was in violation of the rules, in case you need to justify it later or need to compare posting styles between someone you've banned and a new user who's causing similar trouble.
 
 # Moderation Team
 
 As ITC grows, so does our demand for more moderators and people to assist the main admins in their daily tasks for maintance. So with that, we will be asking for volunteers for channel mods. The Jobs of the Moderators will be to ensure that the channels they participate in already are lively and engaging, and upholding the TOC. It is up to the moderators to remind channel users of the rules not to *enforce* them. That is something that should be esclated to the Admins. 
 
-Volunteers for the Moderation team should be directed to #Admin as to which channel you would like to moderate on. 
-
-How you will identify yourself as a moderator is by putting it as follows in your Bio (example @Oisin |Admin|) as well as adding it to the channel purpose (Mods: @Oisin)
-
-Any esclations should be reported to any of the admin team. 
-
-The same rules apply for moderation as for Admin : you must be active and remain active.
+- Volunteers for the Moderation team should be directed to #Admin as to which channel you would like to moderate on. 
+- How you will identify yourself as a moderator is by putting it as follows in your Bio (example @Oisin |Admin|) as well as adding it to the channel purpose (Mods: @Oisin)
+- Any esclations should be reported to any of the admin team. 
+- The same rules apply for moderation as for Admin : you must be active and remain active.
 
 # Reported/Flagged content
 
