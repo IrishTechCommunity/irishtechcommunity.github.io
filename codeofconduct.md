@@ -5,13 +5,81 @@ permalink: /codeofconduct/
 ---
 ## Welcome to the Irish Tech Community 
 
+# Preface
+
+As we move into 2018 it was time to take steps into making the ITC experience more seamless for all parties involved. This means taking stock of what has come before - our victories and our failure and making a plan for the future. This invariably means that how things work from now on is going to be different and hopefully this will be to the benefit of all members of the community. 
+
+It’ll negate the need for having one person making all the big decisions or having all of the responsibility. It’ll be more firm on who and what we allow on ITC. The internet is a big place, and we want to curate ITC into something that we can be proud of. A community of people who want to help build up and not tear down but in order to plant the seeds of that spirit there need to be some things to facilitate that change. 
+
+# Focus of ITC
+
+ITC is to be; supportive, empowering and insightful. Adding genuine value in terms of these via mature interactions
+
+# Objective of ITC
+
+To be a force of good in the irish tech scene. To be supportive and encouraging of our peers to find their place in the tech scene. A source of reliable information with people who care about the Irish Tech scene. To be a place of where all people can gather to discuss all areas of tech in a supportive and engaging environment.
+
+# Restructure of ITC
+
+![alt text](https://imgur.com/a/pbTJY)
+
+# On roles
+
+Primary Owner: 
+
+Is the person who will break a deadlock within the admins or will have the final say over any structural/high level decision where a decision cannot be reached. 
+
+Owners: 
+
+Will have primary responsibility for the running and maintenance of the Slack.
+Owners will have the same responsibility as Admins.
+
+Admins: 
+
+Will have primary responsibility for the running and maintenance of the Slack. 
+They will be there to support & encourage the moderation team. 
+Stepping in where necessary to perform actions such as bannings, kicking people out of channels, any sort of allocation of strikes or disciplinary matters.
+Participating in discussions with the admin team on high level/functional matters (approaches about sensitive issues or being approached about partnerships etc)
+
+# Moderators
+
+Mods is where there is going to be a more fundamental change. As we will be requiring more moderators for additional channels moving forward. For example; in any giving period #jobs & #gaming are two of our most active channels across the entire community. Meaning that these channels are more prone to needing more active moderation than some of the smaller groups. 
+
+In light of this, we will need your support to make this a reality. For those who have already volunteered to Mod for us your contribution has been greatly appreciated & it’s made a huge difference. However, the reason for why we would like more mods is due to the fact that all of the issues that arise while modding can still fall down to one person to then sift through them. 
+
+There will be two key differences to being a mod:
+
+They will have a seperate moderator channel
+They will have specific admins to report to
+
+So, in light of that here are the following rules for moderators. 
+
+They are to ensure that the rules of the individual channels & of the slack are being kept at all times. 
+They will be asking users who are going off topic (#302ing) or who are breaking any rules (TOS violations) to stop doing that. 
+Should they not be listened to mods can either go to their own moderating channel where other mods from other channels are and request help from their peers. (Having one than more voice in those sorts of situations are always useful)
+Failing that, they will then be reporting to their specific Admin with what’s been going on. 
+
+What Moderators are not allowed to do:
+
+They are not allowed to DM any user asking them to stop
+They do not have any special powers to bar or kick out anyone
+
+# TL:DR
+
+- Rules are now changing so mods will be more predominant in channels
+- We will be looking for more volunteers for people to moderate
+- They will have their own channel to get support from each other and for admins
+- They will have no additional powers other than to enforce the rules. 
+- They will have the support of a single admin for any issues that arise that they can’t resolve themselves.
+
+
 # A few things to note: 
 
 - The Irish Tech Community is dedicated to providing a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, work, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or have membership revoked at the discretion of the organizers.
 
 - ITC is not a substitute for legal advice from a professional lawyer/barrister.
 
-### ITC should be considered SFW (Safe for Work). As a rule of thumb, before you post anything, consider if you'd want a co-worker or your boss to see it. While the admins are aware that ITC is used by both professionals and vistors alike the tone shall be kept as SFW and to be used in a Social capacity until the community decides otherwise.
+ - ITC should be considered SFW (Safe for Work). As a rule of thumb, before you post anything, consider if you'd want a co-worker or your boss to see it. While the admins are aware that ITC is used by both professionals and vistors alike the tone shall be kept as SFW and to be used in a Social capacity until the community decides otherwise.
 
 #### The following is not allowed:
 
@@ -35,16 +103,67 @@ permalink: /codeofconduct/
 - Posting or soliciting any members to contribute to or take part in any survey.
 - Ignoring Admins requests to cooperate.
 
-# What is Harassment?
-- Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+# Harassment
 
-If a participant engages in harassing behavior, the admins may take any action they deem appropriate, including warning the offender or having their account disabled. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an administrator (private messages can be sent via Slack and are encouraged).
+Previously our rules stated that any breaches of the Terms of Service could be handled in any way that was fit by the admins. This could be either doing nothing about any alleged harassment or people could get banned. This lead to situations that ended up falling through the net and those issues always end up having their own sets of ramifications. Something the admin team have learned a lot about over the last 2 months. 
 
-# Where can I find an Admin?
+These new changes that we’ll be implementing are in effort to correct these instances and to avoid them happening ever again. 
 
-- You can ping the admins by @admins. Otherwise the active admins are: @oisin & @mikem (as of Feb 2018)
-- Admins will be happy to assist those experiencing harassment to feel safe in this community.
-- You can find other details for admins at the http://irishtechcommunity.com/adminguide/
+# Strikes
+
+ITC will now work on a 3 strike system. All incidents will be recorded and the Admins will be keeping an up to date tally of people who are breaking ToS or generally having a negative attitude. 
+
+An example of this; 
+Anything that is blatant - linking to porn or NSFW material is a strike without question
+Harassment - is a strike 
+Negative Attitudes - will be handled differently an example of this could be young people who needed to be guided into doing better. This will be handed by a DM with an admin who will approach the person in an attempt to guide. Should these words be unheeded a secondary strike will be applied. 
+
+The team understands that not all strikes are equal; or there could be ways of reasoning out poor behaviour (being provoked etc) however, in an environment where you are expected to reason like adults. It’s something we’re no longer excusing. 
+
+So, unfortunately, if this shoe fits then this is something to be aware of. 
+In Channel Harassment:
+
+On the terms of in channel harassment. Once again, approaching this in a fashion where we are all human beings who are worthy of respect and being treated civilly. That is what we will ultimately strive for. For the sake of consistency I’ll reiterate the general house rules.
+
+# House Rules:
+
+In all things we ask you to **FOCUS**.
+
+Is it...
+
+Friendly
+On Topic
+Clean
+Useful
+Safe
+
+And if what you’re saying isn’t any of the above then you probably shouldn’t say it. 
+
+# DM Harassment
+
+With DM Harassment we want to change the approach entirely. 
+
+For any and all DM harassment where it can’t be seen, we would like those who are being subjected to harassment to start a chat with both the person who they feel is harassing them and an admin. This way both parties can copy paste logs of the conversation to that particular chat - and wait for an admin to response. 
+
+We wave the right of the potential accused to not allow a chat log to be shared in this instance, as its the teams feeling that if you have nothing to hide then its discussion shouldn’t be an issue. 
+
+As it protects all parties on all sides - it prevents people cutting and chopping of chat logs or of any context to sentences that could be lost. 
+
+The admin in that instance will then work with the parties involved to come to a resolution on the subject. If harassment has been found it will be a strike and the offending party will be barred from communicating with that specific person. Should they reoffend it will be an instant ban. 
+
+For where they have been any misunderstandings happening the admin will help to resolve any miscommunications. 
+
+For those who are making claims about someone harassing them where they have not equal measures shall take place. Ie. they will be barred from communicating with that person and will be giving a strike. Breaking of this shall be an instant ban. 
+
+# Being Asked to Leave
+
+There may come a point in time where a member of the community may be significantly impacting another members life either personally or professionally. So, things like abusing people on Twitter or there being a conflict of interest between members may result in you being asked to leave. 
+
+We want ITC to be a safe and constructive space for everyone to be in. As the internet is a vibrant and expansive place there are plenty of other places for you to go to if you wish to engage in shitty behaviour. 
+
+Ultimately, Admins will have the say as to who stays and who goes. As the old saying goes; this is our bar and we decide who comes and goes. It’s the only way of providing some safeguards for people who have been less than honourable in their behaviours or conduct. 
+
+In an ideal world, people would act with honour and integrity to each other and generally just be kind. If you are incapable of doing that to each other. Then this is not a place for you and you will be asked to leave. The admins are under no obligation to elaborate on questions as to why certain members are gone. There has to be a level of trust that we are doing things with people's best interests in mind, and if that trust isn’t there then this may apply to you too. 
 
 # Concerning Accounts & Slack Features
 
@@ -66,9 +185,9 @@ If a participant engages in harassing behavior, the admins may take any action t
 
 If something goes wrong, get help by:
 
-- Asking for help in channel by typing "@admins"
-- If you wish to message an admin individually, you can see a list of current admins by typing 'hubot admins' in any channel 
-- Sending a direct message to someone listed as an admin. 
+- Asking for help in channel by typing "@mods" in any channel
+- If you wish to message an admin individually, you can see a list of current admins by typing '@admins' in any channel
+- Sending a direct message to someone listed as an admin/mod 
 - Asking for help in the #admin channel (With admins present).
 
 If you would like to provide feedback on any of the above, or suggest an addition, please contact an admin or post in the admin channel.
