@@ -20,7 +20,7 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
 
 # Restructure of ITC
 
-![Alt Text](https://imgur.com/a/pbTJY)
+![Alt Text](https://i.imgur.com/2FoGtQI.png)
 
 # Primary Owner: 
 
