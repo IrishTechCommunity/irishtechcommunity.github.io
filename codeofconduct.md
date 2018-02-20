@@ -55,7 +55,7 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
 - Soliciting passwords or personally identifying information for commercial or unlawful purposes
 - Posting content in respect of any matter that is currently before the courts
 - Posting Spam of any description.
-- Posting or soliciting any members for anything outside of #selfpromo (when it's to do with any product or service that you or your company are now producing/marketing)
+- Posting or soliciting any members for anything outside of #selfpromo (when it's to do with any product or service that you or your company are now producing/marketing). Posting job adverts for your company is also acceptable in #jobs.
 - Posting or soliciting any members to contribute to or take part in any survey.
 - Ignoring Admins requests to cooperate.
 
