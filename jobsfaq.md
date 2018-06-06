@@ -18,7 +18,7 @@ As our community grows, it's important that all members are aware of best practi
 
 Example of a Job Post from @ccrosse
 
-> Morning all, have a Senior engineering role with another start-up in Dublin. They are looking for a senior engineer who is open/curious to work in a number of technologies. They were using Python, Ruby and now have a strong preference to Node.JS. - Let me know if this piques any interest. Cheers
+> Permanent][Dublin - South William St.][DOE] Morning all, have a Senior engineering role with another start-up in Dublin. They are looking for a senior engineer who is open/curious to work in a number of technologies. They were using Python, Ruby and now have a strong preference to Node.JS. - Let me know if this piques any interest. Cheers
 
 * No discrimination in your posts, e.g. "NO RECRUITERS". You are making an active decision to post a job on the board. ITC is not responsible for who sees the post, and if you don't already have it in the job post you're listing then that's your responsibility. You either trust the community with the information, or you don't. Admins will delete posts like this as being Anti-Social at their discretion.
 * Clean up after yourselves! If you pin something, and you know the job is gone, please remove it. Otherwise a Bot or a bored admin will!
