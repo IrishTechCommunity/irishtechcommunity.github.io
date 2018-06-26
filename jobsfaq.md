@@ -13,7 +13,7 @@ As our community grows, it's important that all members are aware of best practi
 * All members are allowed to post any job that may be of interest to the wider community ie. doesn't have to be programming jobs.
 * Only job posts are allowed to be pinned - no exceptions.
 * While questions about all aspects of jobs/worklife is encouraged - ITC is not a substitute for legal advice from a professional lawyer/barrister.
-* Try to remember that Recruitors are human beings. We have an anti bullying policy that is _strictly_ enforced in #jobs. So attacking members of our community who also happen to be recruitors will not be tolerated. 
+* Try to remember that Recruiters are human beings. We have an anti bullying policy that is _strictly_ enforced in #jobs. So attacking members of our community who also happen to be recruiters will not be tolerated. 
 * Be mindful of your words. We have people here from all walks of life and all technical abilities. What may be a low pay grade for you, may not be for someone else. Be respectful of peoples presence. 
 * Plese do not spam other members with jobs if they have not reached out first. We are a community who respects peoples privacy.
 * Pinned jobs should follow the following format : Greeting, Job-title, Location, Level, Technologies, Contact Information / Link. This should be kept to a single message.
