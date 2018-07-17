@@ -11,6 +11,8 @@ As our community grows, it's important that all members are aware of best practi
 * Open chat is encouraged however please be mindful of the [code of conduct](https://irishtechcommunity.com/codeofconduct/) when it comes to etiqutte.
   * Don't forget we have other channels like #python & #rant for where discussion is more appropriate.
 * All members are allowed to post any job that may be of interest to the wider community ie. doesn't have to be programming jobs.
+* Unpaid internships will not be allowed to be posted. The community has made itself clear that it believes in an honest days work for an honest days pay.
+* Jobs posted in the channel should be paid at least the Irish national minimum wage
 * Only job posts are allowed to be pinned - no exceptions.
 * While questions about all aspects of jobs/worklife is encouraged - ITC is not a substitute for legal advice from a professional lawyer/barrister.
 * Try to remember that Recruiters are human beings. We have an anti bullying policy that is _strictly_ enforced in #jobs. So attacking members of our community who also happen to be recruiters will not be tolerated. 
@@ -20,7 +22,7 @@ As our community grows, it's important that all members are aware of best practi
 
 Example of a Job Post from @ccrosse
 
-> Permanent][Dublin - South William St.][DOE] Morning all, have a Senior engineering role with another start-up in Dublin. They are looking for a senior engineer who is open/curious to work in a number of technologies. They were using Python, Ruby and now have a strong preference to Node.JS. - Let me know if this piques any interest. Cheers
+> [Permanent][Dublin - South William St.][DOE] Morning all, have a Senior engineering role with another start-up in Dublin. They are looking for a senior engineer who is open/curious to work in a number of technologies. They were using Python, Ruby and now have a strong preference to Node.JS. - Let me know if this piques any interest. Cheers
 
 * No discrimination in your posts, e.g. "NO RECRUITERS". You are making an active decision to post a job on the board. ITC is not responsible for who sees the post, and if you don't already have it in the job post you're listing then that's your responsibility. You either trust the community with the information, or you don't. Admins will delete posts like this as being Anti-Social at their discretion.
 * Clean up after yourselves! If you pin something, and you know the job is gone, please remove it. Otherwise a Bot or a bored admin will!
@@ -36,7 +38,7 @@ As usual, if there are any questions or concerns around this please don't hestia
 
 **Can I post if I'm a recruiter?** - Yes, but if you're a recruiter you need to be honest about it. We have a very watchful community, any antisocial behaviour such as hassling people or anything like that (from any member of the community) will not be tolerated.
 
-**Can I post an advertisment for an internship** - Yes, but we do have a preference for paid internships to be advertised. We believe in saying "an honest days work for an honest days pay". Be prepared to be questioned by the community if it's not paid.
+**Can I post an advertisment for an internship** - Yes, but only if it is a paid internships to be advertised. We believe in saying "an honest days work for an honest days pay". The community does not believe in unpaid internships.
 
 **Can I post about my recruitment event?** - No, events like that should be labled as recruiter events and then placed in the #events channel or if it's a student based recruitment (college etc.) then please post in the Students channel.
 
