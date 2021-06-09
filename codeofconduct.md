@@ -7,7 +7,7 @@ permalink: /codeofconduct/
 
 # Preface
 
-As we move into 2018 it was time to take steps into making the ITC experience more seamless for all parties involved. This means taking stock of what has come before - our victories and our failure and making a plan for the future. This invariably means that how things work from now on is going to be different and hopefully this will be to the benefit of all members of the community.
+As we moved into 2018 it was time to take steps into making the ITC experience more seamless for all parties involved. This means taking stock of what has come before - our victories and our failure and making a plan for the future. This invariably means that how things work from now on is going to be different and hopefully this will be to the benefit of all members of the community.
 
 It’ll negate the need for having one person making all the big decisions or having all of the responsibility. It’ll be more firm on who and what we allow on ITC. The internet is a big place, and we want to curate ITC into something that we can be proud of. A community of people who want to help build up and not tear down but in order to plant the seeds of that spirit there need to be some things to facilitate that change.
 
@@ -39,29 +39,30 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
 
 #### The following is not allowed:
 
-- Any content which is not in keeping with the Code of Conduct.
-- Blatantly sexual content (pornography, nudity, etc.)
-- Misogyny, ableism, sexism racism, nationalist insults etc.
-- Personal abuse.
-- Links to anything which would break the rules if posted directly.
-- Posting any private phone numbers.
-- Advocating criminality or violence.
-- Trolling (A 'troll' is someone who posts controversial, inflammatory or off-topic messages with the primary intent of provoking other users. These users should be reported to admins immediately.)
-- Posting libellous material.
-- Misdirection or deceiving links (such as to sites which hijack the browser, rickroll, etc.).
-- Anything illegal.
-- Defame, abuse, harass, stalk, threaten or otherwise violate the rights of others.
-- Identify or speculate as to the identity of any pseudonymous user. *The exception to this being Admins ruling out users who have already been banned using a different username*
+- Any content which is not in keeping with the Code of Conduct
+- Blatantly sexual content *(pornography, nudity, etc.)*
+- Misogyny, ableism, sexism, racism, nationalist insults, etc.
+- Defamation, personal abuse or any other type of abuse, harassment, stalking, threatening content or any content that would otherwise violate the rights of others
+- Links to anything which would break the rules if posted directly
+- Misdirection or deceiving links *(such as to sites which hijack the browser, rickroll, etc.)*
+- Anything illegal
+- Posting any private phone numbers, or any personal contact information with explicit prior authorisation of that person
+- Advocating criminality or violence
+- Trolling *(A 'troll' is someone who posts controversial, inflammatory or off-topic messages with the primary intent of provoking other users. These users should be reported to admins immediately.)*
+- Posting libellous material
+- Identifying or speculating as to the identity of any pseudonymous user. *(The exception to this being admins, where necessary for the safe moderation and administration of the community.)*
 - Soliciting passwords or personally identifying information for commercial or unlawful purposes
 - Posting content in respect of any matter that is currently before the courts
-- Posting Spam of any description.
-- Posting or soliciting any members for anything outside of #selfpromo (when it's to do with any product or service that you or your company are now producing/marketing). Posting job adverts for your company is also acceptable in #jobs.
+- Posting spam of any description
+- Posting or soliciting any members, including inviting members to use a service, sign up for anything, subscribe, or join any events or similar, excepting:
+  - #selfpromo *(for posts related to a product or service that you or your company are now producing/marketing)*
+  - #jobs *(for posting of job adverts for your company or employer)*
   - For charity efforts, ask in #admin first
-- Posting "affiliate links" (where someone clicking the link can result in a reward) in any channel.
-- Posting links without comment. Discussion comes from differing view points - if you're posting a link, please comment on why you're posting it, or what you find interesting about it.
-- Posting URL shortener links - we cannot confirm that these links are safe, so please post the full expanded link instead
-- Posting or soliciting any members to contribute to or take part in any survey.
-- Ignoring Admins requests to cooperate.
+- Posting "affiliate links" *(where someone clicking the link can result in a reward)* in any channel
+- Posting links without comment. Discussion comes from differing view points. If you're posting a link, please comment on why you're posting it, or what you find interesting about it.
+- Posting URL shortened links, such as those from bit.ly, tinyurl, etc - as we cannot confirm that these links are safe. Please post the full expanded link instead
+- Posting or soliciting any members to contribute to or take part in any survey
+- Ignoring requests by admins or moderators to cooperate
 
 # Harassment
 
@@ -128,7 +129,7 @@ In an ideal world, people would act with honour and integrity to each other and 
 
 # Concerning Accounts & Slack Features
 
-- A person should have one account, and each account should be one person. We do not allow company names, or accounts to join the channel. For example 1; you can be apart of X company but you are here to be apart of the community and as an indiviual. Example 2 :if you have a company called "foobar inc" and you join as "foobar" then that's a company name and that's against the toc.
+- A person should have one account, and each account should be one person. We do not allow company names, or accounts to join the channel. For example 1; you can be a part of company X but you are here to be a part of the community as an indiviual. Example 2 :if you have a company called "foobar inc" and you join as "foobar" then that's a company name and that's against the CoC. Please avoid putting your company name in as part of your username.
 
 # You may not join if:
 
@@ -140,7 +141,7 @@ In an ideal world, people would act with honour and integrity to each other and 
 - Act responsibly.
 - Treat others with respect.
 - Abide by the rules.
-- @here @channel @everyone are turned off so people don't get unwanted notificaitons, or abuse of the feature.
+- @here @channel @everyone are turned off so people don't get unwanted notifications, and to avoid abuse of the feature.
 
 # Getting Help
 
