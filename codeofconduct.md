@@ -7,7 +7,7 @@ permalink: /codeofconduct/
 
 # Preface
 
-As we move into 2018 it was time to take steps into making the ITC experience more seamless for all parties involved. This means taking stock of what has come before - our victories and our failure and making a plan for the future. This invariably means that how things work from now on is going to be different and hopefully this will be to the benefit of all members of the community.
+As we moved into 2018 it was time to take steps into making the ITC experience more seamless for all parties involved. This means taking stock of what has come before - our victories and our failure and making a plan for the future. This invariably means that how things work from now on is going to be different and hopefully this will be to the benefit of all members of the community.
 
 It’ll negate the need for having one person making all the big decisions or having all of the responsibility. It’ll be more firm on who and what we allow on ITC. The internet is a big place, and we want to curate ITC into something that we can be proud of. A community of people who want to help build up and not tear down but in order to plant the seeds of that spirit there need to be some things to facilitate that change.
 
@@ -56,10 +56,7 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
 - Posting content in respect of any matter that is currently before the courts
 - Posting Spam of any description.
 - Posting or soliciting any members for anything outside of #selfpromo (when it's to do with any product or service that you or your company are now producing/marketing). Posting job adverts for your company is also acceptable in #jobs.
-  - For charity efforts, ask in #admin first
 - Posting "affiliate links" (where someone clicking the link can result in a reward) in any channel.
-- Posting links without comment. Discussion comes from differing view points - if you're posting a link, please comment on why you're posting it, or what you find interesting about it.
-- Posting URL shortener links - we cannot confirm that these links are safe, so please post the full expanded link instead
 - Posting or soliciting any members to contribute to or take part in any survey.
 - Ignoring Admins requests to cooperate.
 
@@ -128,7 +125,7 @@ In an ideal world, people would act with honour and integrity to each other and 
 
 # Concerning Accounts & Slack Features
 
-- A person should have one account, and each account should be one person. We do not allow company names, or accounts to join the channel. For example 1; you can be apart of X company but you are here to be apart of the community and as an indiviual. Example 2 :if you have a company called "foobar inc" and you join as "foobar" then that's a company name and that's against the toc.
+- A person should have one account, and each account should be one person. We do not allow company names, or accounts to join the channel. For example 1; you can be a part of company X but you are here to be a part of the community as an indiviual. Example 2 :if you have a company called "foobar inc" and you join as "foobar" then that's a company name and that's against the CoC. Please avoid putting your company name in as part of your username.
 
 # You may not join if:
 
@@ -140,7 +137,7 @@ In an ideal world, people would act with honour and integrity to each other and 
 - Act responsibly.
 - Treat others with respect.
 - Abide by the rules.
-- @here @channel @everyone are turned off so people don't get unwanted notificaitons, or abuse of the feature.
+- @here @channel @everyone are turned off so people don't get unwanted notifications, and to avoid abuse of the feature.
 
 # Getting Help
 
