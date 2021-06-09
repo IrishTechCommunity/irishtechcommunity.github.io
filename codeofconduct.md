@@ -39,29 +39,30 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
 
 #### The following is not allowed:
 
-- Any content which is not in keeping with the Code of Conduct.
-- Blatantly sexual content (pornography, nudity, etc.)
-- Misogyny, ableism, sexism racism, nationalist insults etc.
-- Personal abuse.
-- Links to anything which would break the rules if posted directly.
-- Posting any private phone numbers.
-- Advocating criminality or violence.
-- Trolling (A 'troll' is someone who posts controversial, inflammatory or off-topic messages with the primary intent of provoking other users. These users should be reported to admins immediately.)
-- Posting libellous material.
-- Misdirection or deceiving links (such as to sites which hijack the browser, rickroll, etc.).
-- Anything illegal.
-- Defame, abuse, harass, stalk, threaten or otherwise violate the rights of others.
-- Identify or speculate as to the identity of any pseudonymous user. *The exception to this being Admins ruling out users who have already been banned using a different username*
+- Any content which is not in keeping with the Code of Conduct
+- Blatantly sexual content *(pornography, nudity, etc.)*
+- Misogyny, ableism, sexism, racism, nationalist insults, etc.
+- Defamation, personal abuse or any other type of abuse, harassment, stalking, threatening content or any content that would otherwise violate the rights of others
+- Links to anything which would break the rules if posted directly
+- Misdirection or deceiving links *(such as to sites which hijack the browser, rickroll, etc.)*
+- Anything illegal
+- Posting any private phone numbers, or any personal contact information with explicit prior authorisation of that person
+- Advocating criminality or violence
+- Trolling *(A 'troll' is someone who posts controversial, inflammatory or off-topic messages with the primary intent of provoking other users. These users should be reported to admins immediately.)*
+- Posting libellous material
+- Identifying or speculating as to the identity of any pseudonymous user. *(The exception to this being admins, where necessary for the safe moderation and administration of the community.)*
 - Soliciting passwords or personally identifying information for commercial or unlawful purposes
 - Posting content in respect of any matter that is currently before the courts
-- Posting Spam of any description.
-- Posting or soliciting any members for anything outside of #selfpromo (when it's to do with any product or service that you or your company are now producing/marketing). Posting job adverts for your company is also acceptable in #jobs.
+- Posting spam of any description
+- Posting or soliciting any members, including inviting members to use a service, sign up for anything, subscribe, or join any events or similar, excepting:
+  - #selfpromo *(for posts related to a product or service that you or your company are now producing/marketing)*
+  - #jobs *(for posting of job adverts for your company or employer)*
   - For charity efforts, ask in #admin first
-- Posting "affiliate links" (where someone clicking the link can result in a reward) in any channel.
-- Posting links without comment. Discussion comes from differing view points - if you're posting a link, please comment on why you're posting it, or what you find interesting about it.
-- Posting URL shortener links - we cannot confirm that these links are safe, so please post the full expanded link instead
-- Posting or soliciting any members to contribute to or take part in any survey.
-- Ignoring Admins requests to cooperate.
+- Posting "affiliate links" *(where someone clicking the link can result in a reward)* in any channel
+- Posting links without comment. Discussion comes from differing view points. If you're posting a link, please comment on why you're posting it, or what you find interesting about it.
+- Posting URL shortened links - as we cannot confirm that these links are safe. Please post the full expanded link instead
+- Posting or soliciting any members to contribute to or take part in any survey
+- Ignoring requests by admins or moderators to cooperate
 
 # Harassment
 
