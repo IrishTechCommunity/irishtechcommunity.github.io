@@ -60,7 +60,7 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
   - For charity efforts, ask in #admin first
 - Posting "affiliate links" *(where someone clicking the link can result in a reward)* in any channel
 - Posting links without comment. Discussion comes from differing view points. If you're posting a link, please comment on why you're posting it, or what you find interesting about it.
-- Posting URL shortened links - as we cannot confirm that these links are safe. Please post the full expanded link instead
+- Posting URL shortened links, such as those from bit.ly, tinyurl, etc - as we cannot confirm that these links are safe. Please post the full expanded link instead
 - Posting or soliciting any members to contribute to or take part in any survey
 - Ignoring requests by admins or moderators to cooperate
 
