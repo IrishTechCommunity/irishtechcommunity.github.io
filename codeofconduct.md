@@ -55,7 +55,7 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
 - Posting content in respect of any matter that is currently before the courts
 - Posting spam of any description
 - Posting or soliciting any members, including inviting members to use a service, sign up for anything, subscribe, or join any events or similar, excepting:
-  - #selfpromo *(for posts related to a product or service that you or your company are now producing/marketing)*
+  - #selfpromo *(for posts related to a product or service that you personally have created)*
   - #jobs *(for posting of job adverts for your company or employer)*
   - For charity efforts, ask in #admin first
 - Posting "affiliate links" *(where someone clicking the link can result in a reward)* in any channel
