@@ -46,7 +46,7 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
 - Links to anything which would break the rules if posted directly
 - Misdirection or deceiving links *(such as to sites which hijack the browser, rickroll, etc.)*
 - Anything illegal
-- Posting any private phone numbers, or any personal contact information with explicit prior authorisation of that person
+- Posting any private phone numbers, or any personal contact information without explicit prior authorisation of that person
 - Advocating criminality or violence
 - Trolling *(A 'troll' is someone who posts controversial, inflammatory or off-topic messages with the primary intent of provoking other users. These users should be reported to admins immediately.)*
 - Posting libellous material
