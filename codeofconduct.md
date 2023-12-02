@@ -43,6 +43,7 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
 - Blatantly sexual content *(pornography, nudity, etc.)*
 - Misogyny, ableism, sexism, racism, nationalist insults, etc.
 - Defamation, personal abuse or any other type of abuse, harassment, stalking, threatening content or any content that would otherwise violate the rights of others
+- Impersonating a person, company, or government organisation
 - Links to anything which would break the rules if posted directly
 - Misdirection or deceiving links *(such as to sites which hijack the browser, rickroll, etc.)*
 - Anything illegal
