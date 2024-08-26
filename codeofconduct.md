@@ -130,7 +130,7 @@ In an ideal world, people would act with honour and integrity to each other and 
 
 # Concerning Accounts & Slack Features
 
-- A person should have one account, and each account should be one person. We do not allow company names, or accounts to join the channel. For example 1; you can be a part of company X but you are here to be a part of the community as an indiviual. Example 2 :if you have a company called "foobar inc" and you join as "foobar" then that's a company name and that's against the CoC. Please avoid putting your company name in as part of your username.
+- A person should have one account, and each account should be one person. We do not allow company names, or accounts to join the channel. For example 1; you can be a part of company X but you are here to be a part of the community as an indiviual. Example 2 :if you have a company called "foobar inc" and you join as "foobar" then that's a company name and that's against the CoC. Please avoid putting your company name in as part of your username or using a company logo as your avatar.
 
 # You may not join if:
 
