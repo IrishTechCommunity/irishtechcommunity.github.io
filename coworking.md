@@ -20,6 +20,7 @@ Harbour View |	[http://harbourview.ie/](http://harbourview.ie/) |	7 – 9 Claren
 IADT Media Cube |	[http://www.mediacube.ie/](http://www.mediacube.ie/) |	Kill Avenue, Dún Laoghaire	County Dublin |	[@MediaCubeIADT](https://twitter.com/MediaCubeIADT)	|																																
 The Linc |	[https://thelincblog.wordpress.com](https://thelincblog.wordpress.com)	 | The Institute of Technology Blanchardstown, Blanchardstown Road North	Dublin 15 |	[@thelinctweet](https://twitter.com/thelinctweet)	|																				
 National College of Ireland |	[http://www.ncirl.ie/Business/BusinessIncubationCentre.aspx](http://www.ncirl.ie/Business/BusinessIncubationCentre.aspx) |	Mayor Street, IFSC	Dublin 1 |	[@NCIRL](https://twitter.com/NCIRL)	|																				
+New Work Junction | [https://newworkjunction.com/co-working-rathmines/](https://newworkjunction.com/co-working-rathmines/) | 11 Wynnefield Road, Rathmines, Dublin 6, D06 F9C1 | [@newworkjunction](https://twitter.com/newworkjunction) ||
 Partas |	[http://www.partas.ie/Home.aspx](http://www.partas.ie/Home.aspx) |	Tallaght	Dublin 24	 |
 Plus 10 |   [http://plus10.org](http://plus10.org)   | 2a Drinan Street    Cork |    [@Plus10Org](https://twitter.com/Plus10Org) |
 Rock Desk |	[http://rockdesk.co/](http://rockdesk.co/)	| 26 Eustace Street, Temple Bar	Dublin 2	|																					
