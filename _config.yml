@@ -4,7 +4,6 @@ email: info@irishtechcommunity.com
 description: A slack channel for people interested in, or working in the Irish tech industry
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://irishtechcommunity.com" # the base hostname & protocol for your site
-twitter_username: irishtechslack
 
 # Build settings
 markdown: kramdown
