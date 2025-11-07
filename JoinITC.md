@@ -16,11 +16,12 @@ Come and join our community if you are:
 We have many [channels](/channels) devoted to a wide variety of subjects, from design and development of tech, to conferences, diversity, and more. Together, we are building a sustainable, diverse community of people who are interested in growing their skills, experience, community, and industry.
 
 # Sign up to the ITC Slack instance
+All the people in the ITC Slack instance have the ability to invite others to the instance using the <tt>/invite</tt> Slack command. If you want to join in, ask someone you know to invite you.
+
+We closed open sign-up in Nov 2025 to stop incidents where accounts were been created to specifically harass existing members.
+
 Please do not use company names, brand names or similar in your username. We do not have a 'real names' policy of any description, but expect members to communicate their personal opinions, rather than the opinions of brands, companies, or employers. Full details in the very short [code of conduct](/codeofconduct).
-<p class="button">
-      <a href="#" target="_blank">
-      Open sign-up has been disabled
-      </a>
-</p>
+
+Please do have a scan of the [code of conduct](/codeofconduct). As well as behavioural norms, it has special instructions on structuring job descriptions to get your open role pinned and discoverable.
 
 Welcome to ITC, the Irish Technology Community!
