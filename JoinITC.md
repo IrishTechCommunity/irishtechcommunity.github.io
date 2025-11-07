@@ -18,7 +18,9 @@ We have many [channels](/channels) devoted to a wide variety of subjects, from d
 # Sign up to the ITC Slack instance
 Please do not use company names, brand names or similar in your username. We do not have a 'real names' policy of any description, but expect members to communicate their personal opinions, rather than the opinions of brands, companies, or employers. Full details in the very short [code of conduct](/codeofconduct).
 <p class="button">
-  Sign-ups are current disabled
+      <a href="#" target="_blank">
+      Open sign-up has been disabled
+      </a>
 </p>
 
 Welcome to ITC, the Irish Technology Community!
