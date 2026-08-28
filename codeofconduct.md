@@ -64,6 +64,7 @@ To be a force of good in the irish tech scene. To be supportive and encouraging 
 - Posting URL shortened links, such as those from bit.ly, tinyurl, etc - as we cannot confirm that these links are safe. Please post the full expanded link instead
 - Posting or soliciting any members to contribute to or take part in any survey
 - Ignoring requests by admins or moderators to cooperate
+- Posting the output of an LLM as if it was written by you (it’s OK to quote the output of an LLM if that’s clear from the context, but you cannot allow an LLM to pretend to be you). We expect a real human behind each account.
 
 # Harassment
 
